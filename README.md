@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepmachine786&label=Profile%20views&color=0e75b6&style=flat" alt="deepmachine786" /> </p>
 
 
-- 🔭 I’m currently working on [Software Engineer Intern](CodeClause)
+- 🔭 I have worked on [Software Engineer Intern](CodeClause)
 
-- 🌱 I’m currently learning **React, JavaScript, Node.JS**
+- 🌱 I’m currently learned **React, JavaScript, Node.JS**
 
 - 👯 I’m looking to Working on **Google, Microsoft, Apple, Adobe, Amazon**
 
