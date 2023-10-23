@@ -1,12 +1,7 @@
-<h1 align="center">Hi 👋, I'm Md Shahid Ali</h1><p align="center"><img src="https://media.licdn.com/dms/image/D4D16AQHQ4EjXK6g2zw/profile-displaybackgroundimage-shrink_350_1400/0/1687952560400?e=1698883200&v=beta&t=YXbllMW2Ao3b8LQU4mLAiIxzzcCR4UX6XyBkd7uJ64E"></p>
+<h1 align="center">Hi 👋, I'm Md Shahid Ali</h1><p align="center"><img src="https://github.com/deepmachine786/Kanbon_Task_Management/blob/main/server/Untitled%20(4).png"></p>
 
-
-
+<!---<p align="left"> <img src="https://github.com/deepmachine786/Kanbon_Task_Management/blob/main/server/Untitled%20(4).png" alt="deepmachine786" /> </p> --->
 <br>
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepmachine786&label=Profile%20views&color=0e75b6&style=flat" alt="deepmachine786" /> </p>
-
 
 - 🔭 I have worked on [Software Engineer Intern](CodeClause).
 - 🔭 I am honing my dev and technical skills.
@@ -18,10 +13,24 @@
 - My Portfolio: https://deepmachine786.github.io
 
 <br>
+<h2>Experience:</h2>
+<h3><a href="https://internship.codeclause.com/", target="blank">CodeClause</a>| Software Engineer - Intern</h3>
+<ul>
+  <li>As a Software Engineer Intern, I'm thrilled by the diverse projects, amazing team, and real-world impact we achieve.</li>
+</ul>
 
-<br>
+<h3><a href="https://github.com/deepmachine786", target="blank">Bavch Edutech</a>| Research Intern</h3>
+<ul>
+  <li>
+    As a Research intern, I'm thrilled by the limited projects, and collaborative brilliance of my colleagues, and the tangible impact of our research.
+  </li>
+</ul>
+
+
 
 <br />
+
+
 
 ### Languages and Tools:
 
