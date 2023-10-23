@@ -3,11 +3,12 @@
 <!---<p align="left"> <img src="https://github.com/deepmachine786/Kanbon_Task_Management/blob/main/server/Untitled%20(4).png" alt="deepmachine786" /> </p> --->
 <br>
 
-- 🔭 I have worked on [Software Engineer Intern](CodeClause).
-- 🔭 I am honing my dev and technical skills.
+<!--- 🔭 I have worked on [Software Engineer Intern](CodeClause).
+
 - 🌱 I am currently working Full Stack Development.
 - 👯 I’m looking to collaborate on web dev projects.
-- 👯 I’m looking to Working on **Google, Microsoft, Apple, Adobe, Amazon**.
+- 👯 I’m looking to Working on **Google, Microsoft, Apple, Adobe, Amazon**. -->
+- 🔭 I am honing my dev and technical skills.
 - 💬 Ask me About Web development and Software engineering development.
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjyo77@gmail.com)](mailto:technicalproduct786@gmail.com) 
 - My Portfolio: https://deepmachine786.github.io
@@ -60,12 +61,20 @@
 </p>
 
 
+<br>
 
----
-
-
+<h3>Projects</h3>
+<ul>
+    <li><p><a href="https://deepmachine786.github.io/">MyPortfolio</a>| Personal Website</p></li>
+    <li><p><a href="https://github.com/deepmachine786/chatbit">Chatbit</a> | Secure Messaging Application</p></li>
+    <li><p><a href="https://github.com/deepmachine786/port">Transare</a> | File Sharing Application</p></li>
+    <li><p><a href="https://github.com/deepmachine786/VoiceChanger">Voicechanger</a> | Voice Manipulation Application</p></li>
+    <li><p><a href="https://github.com/deepmachine786/Transare">Worksuitkit</a> | A Google Suite Application</p></li>
+  </ul>
   
 
+  
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
