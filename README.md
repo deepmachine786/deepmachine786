@@ -1,95 +1,37 @@
-<h1 align="center">Hi 👋, I'm Md Shahid Ali</h1><p align="center"><img src="https://github.com/deepmachine786/Kanbon_Task_Management/blob/main/server/Untitled%20(4).png"></p>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Md Shahid Ali
+=====================================================================================================================================
 
-<!---<p align="left"> <img src="https://github.com/deepmachine786/Kanbon_Task_Management/blob/main/server/Untitled%20(4).png" alt="deepmachine786" /> </p> --->
-<br>
+Software Engineer
+-----------------
 
-<!--- 🔭 I have worked on [Software Engineer Intern](CodeClause).
+Results-driven Software Engineer with a passion for innovation and problem-solving. B.Tech from Lovely Professional University, specializing in Full Stack Development (JavaScript, Node.js, React, Python, SQL, Java, Dart) and Android.
 
-- 🌱 I am currently working Full Stack Development.
-- 👯 I’m looking to collaborate on web dev projects.
-- 👯 I’m looking to Working on **Google, Microsoft, Apple, Adobe, Amazon**. -->
-- 🔭 I am honing my dev and technical skills.
-- 💬 Ask me About Web development and Software engineering development.
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjyo77@gmail.com)](mailto:technicalproduct786@gmail.com) 
-- My Portfolio: https://deepmachine786.github.io
+* 🌍  I'm based in Kolkata
+* 🖥️  See my portfolio at [MyPortfolio](http://deepmachine786.github.io)
+* ✉️  You can contact me at [alishahidmd127@gmail.com](mailto:alishahidmd127@gmail.com)
+* 🧠  I'm learning System Design and Architecture
+* 🤝  I'm open to collaborating on Software Engineer
 
-<br>
-<h2>Experience:</h2>
-<h3><a href="https://internship.codeclause.com/", target="blank">CodeClause</a>| Software Engineer - Intern</h3>
-<ul>
-  <li>As a Software Engineer Intern, I'm thrilled by the diverse projects, amazing team, and real-world impact we achieve.</li>
-</ul>
-
-<h3><a href="https://github.com/deepmachine786", target="blank">Bavch Edutech</a>| Research Intern</h3>
-<ul>
-  <li>
-    As a Research intern, I'm thrilled by the limited projects, and collaborative brilliance of my colleagues, and the tangible impact of our research.
-  </li>
-</ul>
+### Skills
 
 
-
-<br />
-
-
-
-### Languages and Tools:
-
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://jquery.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="jquery" width="40" height="40"/> </a> 
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="jquery" width="40" height="40"/>
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/redux.svg" alt="jquery" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="jquery" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="jquery" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"  alt="jquery" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="jquery" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="jquery" width="40" height="40"/>
-  <img src="https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg" alt="jquery" width="40" height="40"/>>
-  
-  
-</p>
-
-
-<br>
-
-<h3>Projects</h3>
-<ul>
-    <li><p><a href="https://deepmachine786.github.io/">MyPortfolio</a>| Personal Website</p></li>
-    <li><p><a href="https://github.com/deepmachine786/chatbit">Chatbit</a> | Secure Messaging Application</p></li>
-    <li><p><a href="https://github.com/deepmachine786/port">Transare</a> | File Sharing Application</p></li>
-    <li><p><a href="https://github.com/deepmachine786/VoiceChanger">Voicechanger</a> | Voice Manipulation Application</p></li>
-    <li><p><a href="https://github.com/deepmachine786/Transare">Worksuitkit</a> | A Google Suite Application</p></li>
-  </ul>
-  
-
-  
-<br>
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://www.linkedin.com/in/mdshahidali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjyo851" height="30" width="40" /></a>
-<a href="https://leetcode.com/technicalproduct786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjyo851" height="30" width="40" /></a>
-<a href="https://deepmachine786.github.io" target="blank"><img align="center" src="https://github.com/deepmachine786/portfolio/blob/main/web/favicon.png" alt="arjyo851" height="50" width="50" /></a>
-
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-  
 
-<br>
-<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepmachine786&show_icons=true&locale=en&layout=compact" alt="deepmachine786" /></p> <br>
+### Socials
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepmachine786&show_icons=true&locale=en" alt="deepmachine786" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepmachine786&" alt="deepmachine786" /></p>
+<p align="left"> <a href="https://www.github.com/deepmachine786" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mdshahidali" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/deepmachine786"><img src="https://github-readme-stats.vercel.app/api?username=deepmachine786&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="deepmachine786's GitHub stats" /></a>
+
+<a href="http://www.github.com/deepmachine786"><img src="https://github-readme-streak-stats.herokuapp.com/?user=deepmachine786&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/deepmachine786"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=deepmachine786&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/deepmachine786" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepmachine786&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
